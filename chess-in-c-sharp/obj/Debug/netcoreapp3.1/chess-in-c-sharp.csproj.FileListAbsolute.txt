@@ -1,0 +1,13 @@
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\bin\Debug\netcoreapp3.1\chess-in-c-sharp.exe
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\bin\Debug\netcoreapp3.1\chess-in-c-sharp.deps.json
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\bin\Debug\netcoreapp3.1\chess-in-c-sharp.runtimeconfig.json
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\bin\Debug\netcoreapp3.1\chess-in-c-sharp.runtimeconfig.dev.json
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\bin\Debug\netcoreapp3.1\chess-in-c-sharp.dll
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\bin\Debug\netcoreapp3.1\chess-in-c-sharp.pdb
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.csprojAssemblyReference.cache
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.AssemblyInfoInputs.cache
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.AssemblyInfo.cs
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.csproj.CoreCompileInputs.cache
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.dll
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.pdb
+C:\Users\ginja\c-sharp\chess-in-c-sharp\chess-in-c-sharp\obj\Debug\netcoreapp3.1\chess-in-c-sharp.genruntimeconfig.cache
