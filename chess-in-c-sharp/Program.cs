@@ -5,6 +5,8 @@ namespace chess_in_c_sharp
 {
     class Program
     {
+        static readonly int maxPieces = 32;
+
         static char[] letters = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h'};
         static ArrayList squares = new ArrayList();
 
@@ -38,9 +40,21 @@ namespace chess_in_c_sharp
             }
         }
 
-        static void CreatePiece()
+        static void CreatePlayers()
         {
+            Player p1 = new Player(Colour.White, null);
+            Player p2 = new Player(Colour.Black, null);
+        }
 
+        static void CreatePieces()
+        {
+            int pieceCount = 1;
+            while (pieceCount <= maxPieces) { 
+                if (pieceCount <= 8)
+                {
+                    // Piece piece = new Piece(Type.Pawn, squares.);
+                }
+            }
         }
     }
 }

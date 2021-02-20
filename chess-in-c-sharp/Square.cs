@@ -9,10 +9,12 @@ namespace chess_in_c_sharp
 
         public char Letter { get; set; }
         public int Number { get; set; }
-        public Square(char letter, int number)
+        public Piece Piece { get; set; }
+        public Square(char letter, int number, Piece piece)
         {
             Letter = letter;
             Number = number;
+            Piece = piece;
         }
     }
 }
